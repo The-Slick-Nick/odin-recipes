@@ -1,0 +1,43 @@
+.ingredient {
+    font-weight: 800;
+    
+}
+
+.vegetable {
+    color: rgb(0, 155, 0)
+}
+
+.meat {
+    color: rgb(155, 0, 0)
+}
+
+.spice {
+    color: rgb(240, 107, 89)
+}
+
+.grain {
+    color: rgb(133, 230, 89)
+}
+
+.nut {
+    color: rgb(97, 49, 4)
+}
+
+.fruit {
+    color:rgb(100, 150, 19)
+}
+
+.herb {
+    color: green
+}
+
+.oil {
+    color: rgb(238, 238, 0)
+}
+
+h2 {
+    text-align: center;
+    background-color:rgb(101, 53, 212);
+    color: #f0f0f0;
+    width: 50%;
+}
