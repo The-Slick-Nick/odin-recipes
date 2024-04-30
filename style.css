@@ -1,17 +1,22 @@
+* {
+    font-family: Inter, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(37, 37, 37);
+}
+
 .ingredient {
     font-weight: 800;
-    
 }
 
 .recipe-container {
     display: flex;
-    outline: 1px solid black;
-    width: 500px;
+    /* outline: 1px solid black; */
+    width: 750px;
     height: 250px;
+    margin: 0 auto;
 }
 
 .recipe-box {
-    outline: 3px dotted red;
+    margin: 2px;
     flex: 1;
     background-color: lightcyan;
 
