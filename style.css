@@ -3,8 +3,26 @@
     
 }
 
+.recipe-container {
+    display: flex;
+    outline: 1px solid black;
+    width: 500px;
+    height: 250px;
+}
 
+.recipe-box {
+    outline: 3px dotted red;
+    flex: 1;
+    background-color: lightcyan;
 
+    display: flex;
+    align-items: center;
+}
+
+.recipe-box a {
+    color: orangered;
+    margin: 0 auto;
+}
 
 .vegetable {
     color: rgb(0, 155, 0)
